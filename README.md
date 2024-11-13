@@ -1,2 +1,1 @@
-# plant
-plantsshop
+# coding-project-template
